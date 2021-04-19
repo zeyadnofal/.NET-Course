@@ -1,0 +1,9 @@
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.0\UniversityApp.Domain.deps.json
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.0\UniversityApp.Domain.dll
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\bin\Debug\netstandard2.0\UniversityApp.Domain.pdb
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.csprojAssemblyReference.cache
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.AssemblyInfoInputs.cache
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.AssemblyInfo.cs
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.csproj.CoreCompileInputs.cache
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.dll
+D:\ITI-GIS\.NET\Labs\Lab1-UniversityApp\UniversityApp.Domain\obj\Debug\netstandard2.0\UniversityApp.Domain.pdb

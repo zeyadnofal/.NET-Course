@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoVxtGmBzmAFfWbuCLUFe5ahYPmsQsAxTU5pFFzU32tz/PE1ueAfCo4gtvqlJoy2IsXaEq6yz7do8gKlTsiQNw==",
+  "success": true,
+  "projectFilePath": "D:\\ITI-GIS\\.NET\\Labs\\Lab1-UniversityApp\\UniversityApp.Domain\\UniversityApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zazo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zazo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
