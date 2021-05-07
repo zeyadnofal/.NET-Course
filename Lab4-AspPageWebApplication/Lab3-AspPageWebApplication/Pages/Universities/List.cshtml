@@ -1,0 +1,47 @@
+﻿@page
+@model Lab3_AspPageWebApplication.Pages.Universities.ListModel
+@{
+}
+
+<form method="get">
+
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" value="" placeholder="Enter university name" asp-for="universityName" />
+            <button class="btn btn-primary"> Search </button>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <td class="font-weight-bold">ID</td>
+        <td class="font-weight-bold">Name</td>
+        <td class="font-weight-bold">Address</td>
+    </tr>
+    @foreach (var uni in Model.Universities)
+    {
+<tr>
+    <td>@uni.ID</td>
+    <td>@uni.Name</td>
+    <td>@uni.Address</td>
+    <td>
+        <a asp-page="./Details" asp-route-universityID="@uni.ID">
+            Details
+        </a>
+    </td>
+    <td>
+        <a asp-page="./Edit" asp-route-universityId="@uni.ID">
+            Edit
+        </a>
+    </td>
+    <td>
+        <a asp-page="./Delete" asp-route-universityId="@uni.ID">
+            Delete
+        </a>
+    </td>
+</tr>
+    }
+</table>
+
+<a asp-page="" class="btn btn-primary"> Add New Univeristy </a>

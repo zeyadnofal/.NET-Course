@@ -1,0 +1,18 @@
+﻿@page
+@model Lab3_AspPageWebApplication.Pages.Universities.EditModel
+@{
+}
+
+<form method="post">
+    <input type="hidden" asp-for="University.ID" />
+    <div class="form-group">
+        <label asp-for="University.Name"></label>
+        <input asp-for="University.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="University.Address"></label>
+        <input asp-for="University.Address" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

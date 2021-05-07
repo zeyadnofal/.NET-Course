@@ -1,0 +1,14 @@
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Application.deps.json
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Application.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Application.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.csprojAssemblyReference.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.AssemblyInfoInputs.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.AssemblyInfo.cs
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.csproj.CoreCompileInputs.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.csproj.CopyComplete
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\obj\Debug\netstandard2.0\AspPageWebApplication.Application.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Data.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Application\bin\Debug\netstandard2.0\AspPageWebApplication.Data.pdb
