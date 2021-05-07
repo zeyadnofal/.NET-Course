@@ -1,0 +1,25 @@
+﻿@page
+@model Lab3_AspPageWebApplication.Pages.Universities.ListModel
+@{
+}
+
+<table class="table">
+    <tr>
+        <td class="font-weight-bold">ID</td>
+        <td class="font-weight-bold">Name</td>
+        <td class="font-weight-bold">Address</td>
+    </tr>
+    @foreach (var uni in Model.Universities)
+    {
+        <tr>
+            <td>@uni.ID</td>
+            <td>@uni.Name</td>
+            <td>@uni.Address</td>
+            <td>
+                <a asp-page="./Details" asp-route-universityID="@uni.ID">
+                    Details
+                </a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,22 @@
+﻿@page
+@model Lab3_AspPageWebApplication.Pages.Universities.DetailsModel
+@{
+}
+
+<h2>
+    Welcome to details page
+</h2>
+
+<div>
+    Id : @Model.University.ID
+</div>
+<div>
+    Name : @Model.University.Name
+</div>
+<div>
+    Address : @Model.University.Address
+</div>
+
+<div>
+    <a asp-page="./List">Back to Universities List</a>
+</div>

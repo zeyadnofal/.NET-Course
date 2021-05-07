@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab3_AspPageWebApplication</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspPageWebApplication.Application\AspPageWebApplication.Application.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBqbacydGYV2njK6wdbf3Y2QvFrV+SXGPbZxSoauIyCEze6q7XZsI0RD/EQRuPPx40JUlFEI/zF7J6WW43Klow==",
+  "success": true,
+  "projectFilePath": "D:\\ITI-GIS\\ASP.NET\\Labs\\AspPageWebApplication\\AspPageWebApplication.Application\\AspPageWebApplication.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zazo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zazo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

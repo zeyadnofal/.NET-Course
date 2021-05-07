@@ -1,0 +1,9 @@
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.deps.json
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.csprojAssemblyReference.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.AssemblyInfoInputs.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.AssemblyInfo.cs
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.csproj.CoreCompileInputs.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Domain\obj\Debug\netstandard2.0\AspPageWebApplication.Domain.pdb
