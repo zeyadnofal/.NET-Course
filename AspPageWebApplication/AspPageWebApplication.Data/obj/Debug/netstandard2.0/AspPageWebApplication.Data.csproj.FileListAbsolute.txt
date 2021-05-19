@@ -1,0 +1,12 @@
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\bin\Debug\netstandard2.0\AspPageWebApplication.Data.deps.json
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\bin\Debug\netstandard2.0\AspPageWebApplication.Data.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.csprojAssemblyReference.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.AssemblyInfoInputs.cache
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.AssemblyInfo.cs
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\bin\Debug\netstandard2.0\AspPageWebApplication.Data.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\bin\Debug\netstandard2.0\AspPageWebApplication.Domain.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.csproj.CopyComplete
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.dll
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.pdb
+D:\ITI-GIS\ASP.NET\Labs\AspPageWebApplication\AspPageWebApplication.Data\obj\Debug\netstandard2.0\AspPageWebApplication.Data.csproj.CoreCompileInputs.cache
